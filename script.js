@@ -33,4 +33,6 @@ function criaDiv(btn = undefined) {
     minhasDivs.push(div);
 }
 
-
+corpo.addEventListener('keydown', (CONTROL) => {
+    alert("abacaxi");
+})
